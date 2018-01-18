@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Moon cafe</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Moon cafe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>《咖啡学:秘史、精品豆与烘焙入门》</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description>&lt;p&gt;更多细节详阅本书.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>咖啡品鉴大全</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;更多细节详阅本书.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

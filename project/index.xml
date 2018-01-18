@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Moon cafe</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Moon cafe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>咖啡的分类</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>&lt;p&gt;一、蓝山咖啡：酸味、甜味、苦味均十分调和又有极佳风味及香气，适合做单品咖啡，宜做中度烘焙。&lt;/p&gt;
+
+&lt;p&gt;二、古巴咖啡：古巴水晶山著名的“Cubita”为代表，坚持着做完美咖啡的原则。水晶山与牙买加的蓝山山脉地理位置相邻，气候条件相仿，可媲美牙买加蓝山咖啡。后来成为古巴大使馆指定咖啡。被称为“独特的加勒比海风味咖啡”。&lt;/p&gt;
+
+&lt;p&gt;三、哥伦比亚（南美）苏帕摩（Supremo）：独特的香味，苦中带有甘味的口感令人难忘。&lt;/p&gt;
+
+&lt;p&gt;四、墨西哥科特佩（Coatepec）、华图司科（Huatusco）、欧瑞扎巴（Orizaba）：口感 舒适，有迷人的芳香。&lt;/p&gt;
+
+&lt;p&gt;五、巴西（南美）山多斯咖啡：口感香醇，中性，可以直接煮，或和其它种类的咖啡豆
+相混成综合咖啡，也是很好的选择。&lt;/p&gt;
+
+&lt;p&gt;六、哥伦比亚（南美）曼特宁：口感丰富扎实，有着令人愉悦的酸味。气味香醇，酸度适中，甜味丰富十分耐人寻味，适合深度烘焙，散发出浓厚的香味。&lt;/p&gt;
+
+&lt;p&gt;七、牛奶咖啡（Melange）：黑咖啡和热牛奶各一半，有时还加上调好的奶油，器皿为大咖啡杯。十七世纪土耳 其人围困维也纳时的正宗调配方法。&lt;/p&gt;
+
+&lt;p&gt;八、奶油咖啡（Einspaenner）：类似浓咖啡，咖啡上再放入调制好的奶油。糖视个人口味而定。&lt;/p&gt;
+
+&lt;p&gt;九、维也纳冰咖啡(Wiener Eiskaffee）：冷咖啡加香草冰淇淋和调制好的奶油。器皿为长形的高脚杯。糖视个人口味而定。&lt;/p&gt;
+
+&lt;p&gt;十、奶油热可可（Heisse Schokolade mit Schlagobers）：热可可加配制好的奶油。&lt;/p&gt;
+
+&lt;p&gt;十一、摩卡咖啡：此种具有独特香气，中度烘培有柔和的酸味，深度烘培则散发出浓郁香味，偶尔会作为调酒用。&lt;/p&gt;
+
+&lt;p&gt;十二、萨尔瓦多咖啡：具有酸、苦、甜相等味道特征，最佳的烘培度是中度、深度。&lt;/p&gt;
+
+&lt;p&gt;十三、夏威夷咖啡：具强烈的酸味及独特的香气，中度烘培的豆子带有强烈的酸味，深度烘培风味更上一层楼。&lt;/p&gt;
+
+&lt;p&gt;十四、巴西咖啡：酸味和苦味可藉由烘培来调配，中度烘培香味柔和，味道适中，深度烘培则有强烈苦味，适合来调配混合咖啡。&lt;/p&gt;
+
+&lt;p&gt;十五、曼巴咖啡：曼特林配上巴西，芳香怡口，强劲有味，是咖啡中之绝配。&lt;/p&gt;
+
+&lt;p&gt;十六、康娜咖啡：夏威夷康娜地区火山熔岩培育出的咖啡豆，略带一种葡萄酒香，风味极为独特。&lt;/p&gt;
+
+&lt;p&gt;十七、圣多斯咖啡：主产于巴西圣保罗。甘、酸、苦三味中性，有适度酸味，口味特殊、高雅。&lt;/p&gt;
+
+&lt;p&gt;十八、爪哇咖啡：产于印尼爪哇岛，属于阿拉比卡种咖啡。烘焙后苦味极强而香味极清淡，无酸味。&lt;/p&gt;
+
+&lt;p&gt;十九、瓜地马拉咖啡：带有上等的酸味与甜味滑润顺口，是混合咖啡的最佳材料，适合深度烘培。&lt;/p&gt;
+
+&lt;p&gt;二十、吉力马札罗山：酸、甜、纯、香味均属于上品，中度烘培后会散发出甜味与清淡的酸味，深度烘培 后会产生柔和的苦味，适合来调配混合咖啡。&lt;/p&gt;
+
+&lt;p&gt;二十一、冰拿铁咖啡：利用果糖与牛奶混合增加牛奶的比重，使它与比重较轻的咖啡不会混合，成为黑白分明的两层，形成如鸡尾酒般曼妙的视觉效果，再加上冰块，给人一种高雅而浪漫的温馨感觉。&lt;/p&gt;
+
+&lt;p&gt;二十二、大咖啡/小咖啡/浓咖啡 (Grosser/kleiner Brauner/Schwarzer）：意大利上等咖啡，加少许奶油或牛奶。糖视个人口味而定。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>咖啡饮品</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
